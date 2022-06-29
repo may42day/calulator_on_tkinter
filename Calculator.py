@@ -24,7 +24,7 @@ def correct_number_value(number):
         else:
             return float(number)
     else:
-        return int(number)
+        return int(number) 
 
 
 def change_sign():
